@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 1bcea55be00dd3b4ab056ec974bea50e
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: "son ko\u015F_0"
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 91
+        width: 373
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "son ko\u015F_1"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 68
+        width: 335
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "son ko\u015F_2"
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 83
+        width: 407
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "son ko\u015F_3"
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 91
+        width: 396
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "son ko\u015F_4"
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 83
+        width: 465
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "son ko\u015F_5"
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 94
+        width: 497
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "son ko\u015F_6"
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 91
+        width: 387
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: "son ko\u015F_7"
+      rect:
+        serializedVersion: 2
+        x: 3414
+        y: 125
+        width: 437
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
