@@ -4,9 +4,9 @@ Balance
 48 Saat süresince oluşturduğunuz bir ekip ile oyun geliştirdiğiniz etkinlik olan bu etkinlikte, **Byte-Overdose** ekibi ile Unity3D oyun motoru kullanılarak iki boyutlu **Balance** oyunu geliştirilmeye çalışılmıştır. Tüm kaynaklar ekip üyeleri tarafından hazırlanmıştır. Hazır kullanılan herhangi birşey yoktur.<br>
 Projenin executed hali ve source haline aşşağıdaki linkten ulaşabilirsiniz.
 <url>https://www.dropbox.com/sh/h9fgaykntvmj2rt/AAB572WGJd4QjEhxr0yd5bsNa</url><br>
-Developer Teaam - Geliştirici Ekip <br>
+*Developer Team - Geliştirici Ekip** <br>
 Eda Çağıl Çağlarırmak <br>
 Andaç Temel <br>
 Alican Özen <br>
-Yusuf Eren UTKU <br>
+Y. Eren UTKU <url>(github.com/yerenutku)</url> <br>
  
