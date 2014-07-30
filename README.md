@@ -8,5 +8,5 @@ Projenin executed hali ve source haline <a href="https://www.dropbox.com/sh/h9fg
 Eda Çağıl Çağlarırmak <br>
 Andaç Temel <br>
 Alican Özen <br>
-Y. Eren UTKU <a href="www.github.com/yerenutku">github.com/yerenutku</a><br>
+Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br>
  
