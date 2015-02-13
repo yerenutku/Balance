@@ -14,5 +14,5 @@ Eda Çağıl Çağlarırmak<br>
 Alican Özen <br>
 <ins>Geliştiriciler</ins><br>
 Andaç Temel<br>
-Y. Eren UTKU (<a href="www.github.com/yerenutku">github.com/yerenutku</a>)<br>
+Yusuf Eren Utku
  
